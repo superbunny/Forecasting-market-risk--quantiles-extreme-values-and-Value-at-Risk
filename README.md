@@ -1,4 +1,4 @@
-# time_series_financial_project
+# Forecasting market risk- quantiles, extreme values, and Value at Risk
 From the 1987 big market crash to 2008 financial crisis, there is a growing interest in risk management. One of the most common risk measures is Value at Risk (VaR). The purpose of this study is to compare different VaR models’ risk forecasting ability.
 
 I use the time series of the negative daily stock log returns of Cisco Systems, Inc. Cisco is the largest networking service and products provider in the world. Cisco's stock is a component in DJIA, S&P100, S&P500 index. In the late March 2000, at the peak moment of the doc-com bubble, Cisco became the most valuable company in the world, with a market capital of $555 bn. But just two years later after the bubble burst, its market capital collapsed to $51 bn. This doc-com stock provides an interesting exploratory case to estimate and compare VaRs computed by different approaches. 
