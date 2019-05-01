@@ -9,7 +9,7 @@ I choose two sub-period samples of Cisco’s daily stock returns in last 20 year
 
 Author: Yinlin Zhang, Carleton University.
 
-The research project report: see "Forecasting market risk- quantiles, extreme values, and Value at Risk.pdf".
+The complete project report: see "Forecasting market risk- quantiles, extreme values, and Value at Risk.pdf".
 
 The matlab data file: see "CSCO9716.mat".
 
